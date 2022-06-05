@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: jsjs2022_id/xiaocang
+          tags: jsjs2022/xiaocang
